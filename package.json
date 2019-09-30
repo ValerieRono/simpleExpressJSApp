@@ -1,0 +1,29 @@
+{
+  "name": "simpleexpressjsapp",
+  "version": "1.0.0",
+  "description": "A simple expressJS app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValerieRono/simpleExpressJSApp.git"
+  },
+  "author": "Valerie Rono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ValerieRono/simpleExpressJSApp/issues"
+  },
+  "homepage": "https://github.com/ValerieRono/simpleExpressJSApp#readme",
+  "devDependencies": {
+    "eslint": "^6.5.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
